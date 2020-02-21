@@ -11,9 +11,12 @@ Developed by Joao Alfredo De Lazzari and Eduardo de Miranda Batista
 
    - Links: 
 
-  > LabEST: http://www.labest.coc.ufrj.br/ 
-  > COPPE: https://coppe.ufrj.en/ 
-  > PEC: http://www.coc.ufrj.br/en/ 
+  > LabEST: http://www.labest.coc.ufrj.br/
+  
+  > COPPE: https://coppe.ufrj.br/en/
+  
+  > PEC: http://www.coc.ufrj.br/en/
+  
 
 
 Author's email: joaoadelazzari@outlook.com.br
