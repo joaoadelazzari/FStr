@@ -1,3 +1,5 @@
+[![View FStr - Finite Strip Computer Application Program 1.0.1 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306-fstr-finite-strip-computer-application-program-1-0-1)
+
 To install the FStr app in MATLAB, proceed according to the following steps:
 
 1 - Open MATLAB 2017b or higher version (older version might work);
