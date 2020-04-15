@@ -6,8 +6,9 @@ The FStr computer application program gives to the user an easy and an intuitive
 
 COPPE/UFRJ - LabEST
 
-Developed by Joao Alfredo De Lazzari and Eduardo de Miranda Batista 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3176-3006" href="https://orcid.org/0000-0002-3176-3006" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3176-3006</a></div>
+Developed by: Joao Alfredo De Lazzari <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3176-3006" href="https://orcid.org/0000-0002-3176-3006" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3176-3006</a></div>
+              Eduardo de Miranda Batista <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6317-6789" href="https://orcid.org/0000-0002-6317-6789" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6317-6789</a></div>
+              
 
    - Links: 
 
