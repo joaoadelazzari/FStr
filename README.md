@@ -1,6 +1,6 @@
 [![View FStr - Finite Strip Computer Application Program 1.0.1 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306-fstr-finite-strip-computer-application-program-1-0-1)
-
-Elastic Buckling Analysis and mode visualizer of thin-walled structures.
+# F S t r
+### Elastic Buckling Analysis and mode visualizer of thin-walled structures.
 
 The FStr computer application program gives to the user an easy and an intuitive  elastic buckling analysis, through a Finite Strip Method, and its modal visualization of a thin-walled structural element. Besides the modes, the user can determinate the critical buckling load in each critical length.
 
