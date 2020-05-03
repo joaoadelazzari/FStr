@@ -1,13 +1,6 @@
-theme: jekyll-theme-cayman
-#plugins: jekyll-default-layout
 
-#lsi: false
-#safe: true
-#source: [your repo's top level directory]
-#incremental: false
-#highlighter: rouge
-#gist:
-#  noscript: false
-#kramdown:
-#  math_engine: mathjax
-#  syntax_highlighter: rouge
+title: F S t r
+description: Finite Strip Computer Application Program: Elastic Buckling Analysis and mode visualizer of thin-walled structures.
+show_downloads: true
+theme: jekyll-theme-cayman
+
