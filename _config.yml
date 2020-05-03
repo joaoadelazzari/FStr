@@ -1,6 +1,6 @@
-#theme: jekyll-theme-cayman
-#plugins: jekyll-default-layout
-#jekyll help build
+theme: jekyll-theme-cayman
+plugins: jekyll-default-layout
+
 lsi: false
 safe: true
 source: [your repo's top level directory]
