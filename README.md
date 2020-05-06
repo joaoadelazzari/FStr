@@ -1,4 +1,4 @@
-[![View FStr - Finite Strip Computer Application Program 1.0.1 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306-fstr-finite-strip-computer-application-program-1-0-1)
+[![View FStr - Finite Strip Computer Application on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
 
 ![CI](https://github.com/joaoadelazzari/FStr/workflows/CI/badge.svg)
 
@@ -60,4 +60,6 @@ In case of uninstalling, click with the right button on the app icon, and go uni
 For contact, please email Joao Alfredo De Lazzari
 joaoadelazzari@outlook.com.br
 
-[![View FStr - Finite Strip Computer Application Program 1.0.1 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306-fstr-finite-strip-computer-application-program-1-0-1)
+[![View FStr - Finite Strip Computer Application on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
+
+![CI](https://github.com/joaoadelazzari/FStr/workflows/CI/badge.svg)
