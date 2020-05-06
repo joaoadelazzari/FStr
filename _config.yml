@@ -3,7 +3,7 @@ title: F S t r
 description: ['Finite Strip Computer Application Program']
 show_downloads: true
 github:
-  zip_url: https://github.com/joaoadelazzari/FStr/versions/vs1.1.2/Download.zip
+  zip_url: https://github.com/joaoadelazzari/FStr/releases/download/v1.1.2/FStr_vs1.1.2_Installer_mcr.exe
 #  tar_url: another value
 theme: jekyll-theme-cayman
 
