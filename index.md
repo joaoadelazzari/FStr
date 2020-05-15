@@ -8,9 +8,7 @@ The FStr computer application program gives to the user an easy and an intuitive
 COPPE/UFRJ - LabEST
 
 
-
-
-#### Developed by:
+### Developed by:
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joaoalfredo"><a class="LI-simple-link" href='https://br.linkedin.com/in/joaoalfredo/en-us?trk=profile-badge'>João Alfredo De Lazzari</a></div>
 
