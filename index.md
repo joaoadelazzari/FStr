@@ -7,20 +7,15 @@ The FStr computer application program gives to the user an easy and an intuitive
 
 COPPE/UFRJ - LabEST
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joaoalfredo"><a class="LI-simple-link" href='https://br.linkedin.com/in/joaoalfredo/en-us?trk=profile-badge'>João Alfredo De Lazzari</a></div>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="joaoalfredo"><a class="LI-simple-link" href='https://br.linkedin.com/in/joaoalfredo/en-us?trk=profile-badge'>João Alfredo De Lazzari</a></div>
 
 
 #### Developed by:
 
-[Joao Alfredo De Lazzari](https://www.linkedin.com/in/joaoalfredo/)<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3176-3006" href="https://orcid.org/0000-0002-3176-3006" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3176-3006</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joaoalfredo"><a class="LI-simple-link" href='https://br.linkedin.com/in/joaoalfredo/en-us?trk=profile-badge'>João Alfredo De Lazzari</a></div>
 
-Eduardo de Miranda Batista<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6317-6789" href="https://orcid.org/0000-0002-6317-6789" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6317-6789</a></div>
+
+Eduardo de Miranda Batista
 
 * * *
 
