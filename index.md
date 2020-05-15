@@ -9,7 +9,11 @@ COPPE/UFRJ - LabEST
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
+
+
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joaoalfredo"><a class="LI-simple-link" href='https://br.linkedin.com/in/joaoalfredo/en-us?trk=profile-badge'>João Alfredo De Lazzari</a></div>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="joaoalfredo"><a class="LI-simple-link" href='https://br.linkedin.com/in/joaoalfredo/en-us?trk=profile-badge'>João Alfredo De Lazzari</a></div>
 
 
 #### Developed by:
