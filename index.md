@@ -14,7 +14,11 @@ COPPE/UFRJ - LabEST
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="joaoalfredo"><a class="LI-simple-link" href='https://br.linkedin.com/in/joaoalfredo/en-us?trk=profile-badge'>João Alfredo De Lazzari</a></div>
 
 
-Eduardo de Miranda Batista | [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4783882P6&tokenCaptchar=03AGdBq24mZWMe31VnG8yYDbFIpap3IKFu18Vx2zDD_b6SI710rMtt26hzREBksPgWoCurSjGG6vOAhNN72gZj5NrBI3vu2rusocdq_AsW5z6RYmlaL4-optvK-fcODHKTRtde9EzpnH4CwzUC5TknExUab2JFHNuSSst-4MHDn21q1UMlZiAxhS7p0YPSm4EqSc2CjTWKUhgRAQx49Hxl-_r8oDgvrzcipz_aIkKrH-HYzCES4HCZnFQTnmXBxfEE7WHEb_i5EW4HY852eWSgL2cUrrU5HiQVBwna5LS0K8Tk_8igBU9SthlaRYI34NpYF0idUjZANr2PEgu-pYnTb3rsyMtPpk_ZFaS7Zj-KneUwb4YbxViiXi2U7MqZWnWQ-rWV-wo9bgaRd6LCheJzwaFCEDNH-tCio9Dg97VS_0sPQOJCmNTHfviysjrmcPF9Zkb2wdJztFeEhyCZUURCSz4nNzbFEEXZLw) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7006940844) | [Scielo](https://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dlibrary&fmt=iso.pft&lang=i&nextAction=lnk&indexSearch=AU&exprSearch=BATISTA,+EDUARDO+DE+MIRANDA) | [Orcid](https://orcid.org/0000-0002-6317-6789)
+
+
+
+Eduardo de Miranda Batista
+[Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4783882P6&tokenCaptchar=03AGdBq24mZWMe31VnG8yYDbFIpap3IKFu18Vx2zDD_b6SI710rMtt26hzREBksPgWoCurSjGG6vOAhNN72gZj5NrBI3vu2rusocdq_AsW5z6RYmlaL4-optvK-fcODHKTRtde9EzpnH4CwzUC5TknExUab2JFHNuSSst-4MHDn21q1UMlZiAxhS7p0YPSm4EqSc2CjTWKUhgRAQx49Hxl-_r8oDgvrzcipz_aIkKrH-HYzCES4HCZnFQTnmXBxfEE7WHEb_i5EW4HY852eWSgL2cUrrU5HiQVBwna5LS0K8Tk_8igBU9SthlaRYI34NpYF0idUjZANr2PEgu-pYnTb3rsyMtPpk_ZFaS7Zj-KneUwb4YbxViiXi2U7MqZWnWQ-rWV-wo9bgaRd6LCheJzwaFCEDNH-tCio9Dg97VS_0sPQOJCmNTHfviysjrmcPF9Zkb2wdJztFeEhyCZUURCSz4nNzbFEEXZLw) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7006940844) | [Scielo](https://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dlibrary&fmt=iso.pft&lang=i&nextAction=lnk&indexSearch=AU&exprSearch=BATISTA,+EDUARDO+DE+MIRANDA) | [Orcid](https://orcid.org/0000-0002-6317-6789)
 
 * * *
 
