@@ -61,11 +61,11 @@ Observation 4: Using another type of software that requires a MATLAB Runtime, ma
 
    - Links: 
 
-  > LabEST: https://sites.google.com/coc.ufrj.br/fstr/institution/labest
-  
-  > COPPE: https://sites.google.com/coc.ufrj.br/fstr/institution/coppeufrj
-  
-  > PEC: https://sites.google.com/coc.ufrj.br/fstr/institution/civil-engineering-program
+  > [LabEST - Laboratory of Structures and Materials Professor Lobo Carneiro](http://www.labest.coc.ufrj.br/)
+
+  > [COPPE - Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering](https://coppe.ufrj.br/en/)
+
+  > [PEC - Civil Engineering Program](http://www.coc.ufrj.br/en/)
   
 
 For contact, please email Joao Alfredo De Lazzari
