@@ -33,17 +33,22 @@ The FStr computer application program gives to the user an easy and an intuitive
 To install the FStr application in Windows, proceed according to the following steps:
 
 1 - Download the newest .EXE file in the releases (https://github.com/joaoadelazzari/FStr/releases/);
+
 2 - Execute the downloaded file;
+
 3 - Follow the steps and wait for installing the MATLAB Runtime;
-4 – A shortcut will be placed in desktop
+
+4 – A shortcut will be placed in desktop;
+
 5 - Once installed, you may run the FStr program and enjoy elastic buckling analysis.
-Observation 1: In case of uninstalling, go to “Add or Remove Programs” or “Programs and Features” or “Apps & Features”, and search for “FStr” and “MATLAB Runtime”. You must uninstall both applications for completely remove the FStr.
+
+Observation 1: In case of uninstalling, go to “Add or Remove Programs” or “Programs and Features” or “Apps & Features”, and search for “FStr” and “MATLAB Runtime”. You must uninstall both applications for completely remove the FStr;
+
 Observation 2: In case the program is not running properly, try to uninstall the MATLAB Runtime and install again;
-Observation 3: In case the program report some unusual bugs, please contact Joao Alfredo de Lazzari (joaoadelazzari@outlook.com.br)
+
+Observation 3: In case the program report some unusual bugs, please contact Joao Alfredo de Lazzari (joaoadelazzari@outlook.com.br);
+
 Observation 4: Using another type of software that requires a MATLAB Runtime, may be compromising the usage of the FStr Computer Application.
-
-
-In case of uninstalling, click with the right button on the app icon, and go uninstall.
 
 
 ### Developed by:
