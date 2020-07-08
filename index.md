@@ -61,6 +61,18 @@ joaoadelazzari@outlook.com.br
 [PEC - Civil Engineering Program](http://www.coc.ufrj.br/en/)
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155850473-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155850473-4');
+</script>
+
+
+
 [![View FStr - Finite Strip Computer Application File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
 
 ![CI](https://github.com/joaoadelazzari/FStr/workflows/CI/badge.svg)
