@@ -7,3 +7,5 @@ github:
   tar_url: https://github.com/joaoadelazzari/FStr/releases
 theme: jekyll-theme-minimal
 
+# Tracker
+analytics: UA-155850473-4 # Google Analytics
