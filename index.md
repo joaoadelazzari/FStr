@@ -1,11 +1,7 @@
 # F S t r
 ### Elastic Buckling Analysis and mode visualizer of thin-walled structures.
 
-[logo_pic](https://github.com/joaoadelazzari/FStr/blob/master/images/logos/logo6.png)
-<img src="blob/master/images/logos/logo6.png" class="img-responsive" alt=""> </div>
-img
-    logo6.png
-index.html
+Web Site 1: https://sites.google.com/coc.ufrj.br/fstr
 
 The FStr computer application program gives to the user an easy and an intuitive  elastic buckling analysis, through a Finite Strip Method, and its modal visualization of a thin-walled structural element. Besides the modes, the user can determinate the critical buckling load in each critical length.
 
@@ -53,6 +49,8 @@ joaoadelazzari@outlook.com.br
 * * *
 
 ##### Links:
+
+[FStr Computer Application - Google Site](https://sites.google.com/coc.ufrj.br/fstr)
 
 [LabEST - Laboratory of Structures and Materials Professor Lobo Carneiro](http://www.labest.coc.ufrj.br/)
 
