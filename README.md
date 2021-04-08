@@ -1,3 +1,5 @@
+![](https://github.com/joaoadelazzari/FStr/blob/master/images/logos/logo2020_1.png?raw=true)
+
 [![View FStr - Finite Strip Computer Application on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
 
 ![CI](https://github.com/joaoadelazzari/FStr/workflows/CI/badge.svg)
@@ -5,6 +7,7 @@
 
 # F S t r
 ### Elastic Buckling Analysis and mode visualizer of thin-walled structures.
+
 
 #### Web Site 1: https://sites.google.com/coc.ufrj.br/fstr
 #### Web Site 2: https://joaoadelazzari.github.io/FStr/          
@@ -54,6 +57,11 @@ Observation 4: Using another type of software that requires a MATLAB Runtime, ma
 ### Developed by:
 
 #### Joao Alfredo De Lazzari<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3176-3006" href="https://orcid.org/0000-0002-3176-3006" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3176-3006</a></div>
+<p>
+    <a href="https://www.linkedin.com/in/joaoalfredo/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="follow on Linkendin"></a>
+<p/>
 
 
 #### Eduardo de Miranda Batista<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6317-6789" href="https://orcid.org/0000-0002-6317-6789" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6317-6789</a></div>
