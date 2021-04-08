@@ -1,3 +1,5 @@
+![](https://github.com/joaoadelazzari/FStr/blob/master/images/logos/logo2020_1.png?raw=true)
+
 # F S t r
 ### Elastic Buckling Analysis and mode visualizer of thin-walled structures.
 
