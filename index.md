@@ -21,6 +21,7 @@ Joao Alfredo de Lazzari | [Lattes](http://buscatextual.cnpq.br/buscatextual/visu
 <p/>
 
 
+Eduardo de Miranda Batista  | [Lattes](http://lattes.cnpq.br/9045444814367137) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7006940844) | [Scielo](https://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dlibrary&fmt=iso.pft&lang=i&nextAction=lnk&indexSearch=AU&exprSearch=BATISTA,+EDUARDO+DE+MIRANDA) | [Orcid](https://orcid.org/0000-0002-6317-6789) |
 
 
 * * *
