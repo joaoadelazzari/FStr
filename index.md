@@ -22,3 +22,52 @@ Joao Alfredo de Lazzari | [Lattes](http://buscatextual.cnpq.br/buscatextual/visu
 
 
 
+Eduardo de Miranda Batista  | [Lattes](http://lattes.cnpq.br/9045444814367137) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7006940844) | [Scielo](https://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dlibrary&fmt=iso.pft&lang=i&nextAction=lnk&indexSearch=AU&exprSearch=BATISTA,+EDUARDO+DE+MIRANDA) | [Orcid](https://orcid.org/0000-0002-6317-6789) |
+
+
+<!-- * * * -->
+
+
+#### Installing:
+
+To install the FStr application in Windows, proceed according to the following steps:
+
+1 - Download the newest .EXE file in the [RELEASES](https://github.com/joaoadelazzari/FStr/releases/);
+
+2 - Execute the downloaded file;
+
+3 - Follow the steps and wait for installing the MATLAB Runtime;
+
+4 – A shortcut will be placed in desktop;
+
+5 - Once installed, you may run the FStr program and enjoy elastic buckling analysis.
+
+Observation 1: In case of uninstalling, go to “Add or Remove Programs” or “Programs and Features” or “Apps & Features”, and search for “FStr” and “MATLAB Runtime”. You must uninstall both applications for completely remove the FStr;
+
+Observation 2: In case the program is not running properly, try to uninstall the MATLAB Runtime and install again;
+
+Observation 3: In case the program report some unusual bugs, please contact Joao Alfredo de Lazzari (joaoadelazzari@outlook.com.br);
+
+Observation 4: Using another type of software that requires a MATLAB Runtime, may be compromising the usage of the FStr Computer Application.
+
+
+For contact, please email Joao Alfredo De Lazzari
+joaoadelazzari@outlook.com.br
+
+* * *
+
+##### Links:
+
+[FStr Computer Application - Google Site](https://sites.google.com/coc.ufrj.br/fstr)
+
+[LabEST - Laboratory of Structures and Materials Professor Lobo Carneiro](http://www.labest.coc.ufrj.br/)
+
+[COPPE - Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering](https://coppe.ufrj.br/en/)
+
+[PEC - Civil Engineering Program](http://www.coc.ufrj.br/en/)
+
+
+
+[![View FStr - Finite Strip Computer Application File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
+
+![CI](https://github.com/joaoadelazzari/FStr/workflows/CI/badge.svg)
