@@ -5,8 +5,8 @@
 ![CI](https://github.com/joaoadelazzari/FStr/workflows/CI/badge.svg)
 
 
-# F S t r
-### Elastic Buckling Analysis and mode visualizer of thin-walled structures.
+# FStr
+### Elastic Buckling Analysis of Thin-Walled Structures.
 
 
 #### Web Site 1: https://sites.google.com/coc.ufrj.br/fstr
