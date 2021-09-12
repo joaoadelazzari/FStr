@@ -12,7 +12,7 @@
 #### Web Site 1: https://sites.google.com/coc.ufrj.br/fstr
 #### Web Site 2: https://joaoadelazzari.github.io/FStr/          
 
-The FStr computer application program gives to the user an easy and an intuitive elastic buckling analysis, through a Finite Strip Method, and its modal visualization of a thin-walled structural element. Besides the modes, the user can determinate the critical buckling load in each critical length.
+The FStr computer application program gives to the user an easy and an intuitive elastic buckling analysis, through a Finite Strip Method, and its modal preview of a thin-walled structural element. Besides the modes, the user can determinate the critical buckling load in each critical length.
 
 
 ## What is FStr?
@@ -49,7 +49,7 @@ Observation 1: In case of uninstalling, go to “Add or Remove Programs” or �
 
 Observation 2: In case the program is not running properly, try to uninstall the MATLAB Runtime and install again;
 
-Observation 3: In case the program report some unusual bugs, please contact Joao Alfredo de Lazzari (joaoadelazzari@outlook.com.br);
+Observation 3: In case the program reports some unusual bugs, please contact Joao Alfredo de Lazzari (joaoadelazzari@outlook.com.br);
 
 Observation 4: Using another type of software that requires a MATLAB Runtime, may be compromising the usage of the FStr Computer Application.
 
