@@ -1,27 +1,29 @@
-![](https://github.com/joaoadelazzari/FStr/blob/master/images/logos/logo2020_1.png?raw=true)
+[![](https://github.com/joaoadelazzari/FStr/blob/master/images/logos/logo2020_1.png?raw=true)](https://sites.google.com/coc.ufrj.br/fstr)
 
-# F S t r
-### Elastic Buckling Analysis and mode visualizer of thin-walled structures.
+# [FStr](https://sites.google.com/coc.ufrj.br/fstr)
+### Elastic Buckling Analysis of Thin-Walled Structures
 
-Web Site 1: [https://sites.google.com/coc.ufrj.br/fstr](https://sites.google.com/coc.ufrj.br/fstr)
+The FStr computer application program gives to the user an easy and an intuitive  elastic buckling analysis, through a Finite Strip Method, and its modal preview of a thin-walled structural element. Besides the modes, the user can determinate the critical buckling load in each critical length.
 
-The FStr computer application program gives to the user an easy and an intuitive  elastic buckling analysis, through a Finite Strip Method, and its modal visualization of a thin-walled structural element. Besides the modes, the user can determinate the critical buckling load in each critical length.
+[Learn more](https://sites.google.com/coc.ufrj.br/fstr)
 
-COPPE/UFRJ - LabEST
+## What is [FStr](https://sites.google.com/coc.ufrj.br/fstr)?
+- FStr Computer Application is a software developed on the basis of the Finite Strip Method formulation;
+
+- The formulation uses trigonometric functions in longitudinal direction in series, with the purpose of interpolate the solution inside the strip, and form a shape suitable to any type of end boundary condition;
+
+- Signature curves are one type of analyze the results, through a set of longitudinal lengths. Then, the user can analyze the critical modes in any critical length;
+
+- 3D buckling modes, with colorful plots, helps the user to identify the critical buckling mode easily.
+
+## Easy and intuitive interface
+- The Graphical User Interface (GUI) is implemented in the MATLAB App Designer (MATHWORKS, 2000). The purpose of the GUI is to make it easier to the user to set up the data input and to analyze the data output.
+
+- The FStr has an accessible and easy graphical user interface, and is conceived to attend research activities as well as engineering design of thin-walled structures with arbitrary cross-sections. 
 
 
-### Developed by:
 
-Joao Alfredo de Lazzari | [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4675146P1&tokenCaptchar=03AGdBq24dYYI4uCcXH03Xnsv5BqcQqmejviIQmwzqponk_CWJ9BTrrWhqrGbuEjfrVp3evk9TVt4b36_GiGvAIUUN-xszy97zZwe03gre23H_dBAWxjXo7enApMFl1bJ_pe4LmQKz7b0Ej5Ydzx2D_zk_28zuD4tMOht2oeL0psjkw8sS1Wl9JtMWA_Kw-jVQIoyPwZFvwfsymPwT-YCvIJzM6v9IVaOxmcolU3Cx0rNxI6p8QB8m9gAkDBPbkIn9FA2WREJajvlAUGIAlZvduK3JH8ZmWWjMerd3hpii5oD2a_-4PiNnAJ_EftZ3htX5KxbWcDLb28J5piMNsK4p-oXoNt7WtjSIKmXxCtDHm7aYMzwRQgHRieRGsxMnNJA5x1UCwYrO4NPwwbjDCiJch58_-eXumSaaDlLrCBjlh-Cv68pOQOOH-TwUyPowLFGfEeoNFIUsal_BcA48u2pVwEKGAje99Ac71w) | [ResearchGate](https://www.researchgate.net/profile/Joao_Alfredo_De_Lazzari) | [Orcid](https://orcid.org/0000-0002-3176-3006) |
-
-
-Eduardo de Miranda Batista  | [Lattes](http://lattes.cnpq.br/9045444814367137) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7006940844) | [Scielo](https://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dlibrary&fmt=iso.pft&lang=i&nextAction=lnk&indexSearch=AU&exprSearch=BATISTA,+EDUARDO+DE+MIRANDA) | [Orcid](https://orcid.org/0000-0002-6317-6789) |
-
-
-<!-- * * * -->
-
-
-#### Installing:
+## Installing:
 
 To install the FStr application in Windows, proceed according to the following steps:
 
@@ -39,7 +41,7 @@ Observation 1: In case of uninstalling, go to “Add or Remove Programs” or �
 
 Observation 2: In case the program is not running properly, try to uninstall the MATLAB Runtime and install again;
 
-Observation 3: In case the program report some unusual bugs, please contact Joao Alfredo de Lazzari (joaoadelazzari@outlook.com.br);
+Observation 3: In case the program reports some unusual bugs, please contact Joao Alfredo de Lazzari (joaoadelazzari@outlook.com.br);
 
 Observation 4: Using another type of software that requires a MATLAB Runtime, may be compromising the usage of the FStr Computer Application.
 
@@ -47,7 +49,20 @@ Observation 4: Using another type of software that requires a MATLAB Runtime, ma
 For contact, please email Joao Alfredo De Lazzari
 joaoadelazzari@outlook.com.br
 
+
+
 * * *
+
+
+### Developed by:
+
+Joao Alfredo de Lazzari | [Lattes](http://lattes.cnpq.br/5703194372541843) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57220023113) | [Scielo](https://search.scielo.org/?lang=en&q=au:LAZZARI,+JOAO+ALFREDO) | [ResearchGate](https://www.researchgate.net/profile/Joao_Alfredo_De_Lazzari) | [Orcid](https://orcid.org/0000-0002-3176-3006) | [Google Scholar](https://scholar.google.com.br/citations?user=BlluIXQAAAAJ&hl=pt-BR) | [You Tube](https://www.youtube.com/channel/UCm0V8LURETmUf7Bg3aVuPaQ) | [Twitter](https://twitter.com/joaoadelazzari) | [My LinkTree](https://linktr.ee/FStr) | [Linkedin](https://www.linkedin.com/in/joaoalfredo/)
+
+
+Eduardo de Miranda Batista  | [Lattes](http://lattes.cnpq.br/9045444814367137) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7006940844) | [Scielo](https://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dlibrary&fmt=iso.pft&lang=i&nextAction=lnk&indexSearch=AU&exprSearch=BATISTA,+EDUARDO+DE+MIRANDA) | [ResearchGate](https://www.researchgate.net/profile/Eduardo-Batista-5) | [Orcid](https://orcid.org/0000-0002-6317-6789) | [Google Scholar](https://scholar.google.com.br/citations?user=J4uahxcAAAAJ&hl=pt-BR) | 
+
+
+<!-- * * * -->
 
 ##### Links:
 
