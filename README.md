@@ -1,5 +1,6 @@
 ![](https://github.com/joaoadelazzari/FStr/blob/master/images/logos/logo2020_1.png?raw=true)
 
+
 [![View FStr - Finite Strip Computer Application on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
 
 ![CI](https://github.com/joaoadelazzari/FStr/workflows/CI/badge.svg)
