@@ -12,7 +12,7 @@
 #### Web Site 1: https://sites.google.com/coc.ufrj.br/fstr
 #### Web Site 2: https://joaoadelazzari.github.io/FStr/          
 
-The FStr computer application program gives to the user an easy and an intuitive elastic buckling analysis, through a Finite Strip Method, and its modal preview of a thin-walled structural element. Besides the modes, the user can determinate the critical buckling load in each critical length.
+The FStr computer application program is based on the Finite Strip Method and gives to the user an easy and intuitive elastic buckling analysis, allowing access to the buckling mode shape of thin-walled structural member. Besides the generation of the 2D and 3D buckling modes illustration, the user is able to obtain the critical buckling load and its related member length.
 
 
 ## What is FStr?
