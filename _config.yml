@@ -3,8 +3,8 @@ title: FStr
 description: Finite Strip Computer Application
 show_downloads: true
 github:
-  zip_url: https://github.com/joaoadelazzari/FStr/releases/download/v1.2.0/FStr_vs1.2.0_Installer_mcr.rar
-  tar_url: https://github.com/joaoadelazzari/FStr/releases
+  zip_url: https://github.com/joaoadelazzari/FStr/releases/download/v1.4.0/FStr_vs1.4.0_Installer_mcr.rar
+  tar_url: https://github.com/joaoadelazzari/FStr/releases/download/v1.4.0/FStr_vs1.4.0_Installer_mcr.rar
 theme: jekyll-theme-minimal
 
 # Tracker
