@@ -74,7 +74,7 @@ Eduardo de Miranda Batista  | [Lattes](http://lattes.cnpq.br/9045444814367137) |
 
 [PEC - Civil Engineering Program](http://www.coc.ufrj.br/en/)
 
-
+<meta name="google-site-verification" content="1-sKvhQ7zP-8J7vif_OdLUYZ0n5FjT5YVvuiSuGT4yM" />
 
 [![View FStr - Finite Strip Computer Application File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
 
