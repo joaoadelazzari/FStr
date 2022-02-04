@@ -56,10 +56,18 @@ joaoadelazzari@outlook.com.br
 
 ### Developed by:
 
-Joao Alfredo de Lazzari | [Lattes](http://lattes.cnpq.br/5703194372541843) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57220023113) | [Scielo](https://search.scielo.org/?lang=en&q=au:LAZZARI,+JOAO+ALFREDO) | [ResearchGate](https://www.researchgate.net/profile/Joao_Alfredo_De_Lazzari) | [Orcid](https://orcid.org/0000-0002-3176-3006) | [Google Scholar](https://scholar.google.com.br/citations?user=BlluIXQAAAAJ&hl=pt-BR) | [You Tube](https://www.youtube.com/channel/UCm0V8LURETmUf7Bg3aVuPaQ) | [Twitter](https://twitter.com/joaoadelazzari) | [My LinkTree](https://linktr.ee/FStr) | [Linkedin](https://www.linkedin.com/in/joaoalfredo/)
+##### MSc. Joao Alfredo de Lazzari
+
+| [Lattes](http://lattes.cnpq.br/5703194372541843) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57220023113) | [Scielo](https://search.scielo.org/?lang=en&q=au:LAZZARI,+JOAO+ALFREDO) | [ResearchGate](https://www.researchgate.net/profile/Joao_Alfredo_De_Lazzari) | [Orcid](https://orcid.org/0000-0002-3176-3006) |
+
+| [Google Scholar](https://scholar.google.com.br/citations?user=BlluIXQAAAAJ&hl=pt-BR) | [You Tube](https://www.youtube.com/channel/UCm0V8LURETmUf7Bg3aVuPaQ) | [Twitter](https://twitter.com/joaoadelazzari) | [My LinkTree](https://linktr.ee/FStr) | [Linkedin](https://www.linkedin.com/in/joaoalfredo/) |
 
 
-Eduardo de Miranda Batista  | [Lattes](http://lattes.cnpq.br/9045444814367137) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7006940844) | [Scielo](https://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dlibrary&fmt=iso.pft&lang=i&nextAction=lnk&indexSearch=AU&exprSearch=BATISTA,+EDUARDO+DE+MIRANDA) | [ResearchGate](https://www.researchgate.net/profile/Eduardo-Batista-5) | [Orcid](https://orcid.org/0000-0002-6317-6789) | [Google Scholar](https://scholar.google.com.br/citations?user=J4uahxcAAAAJ&hl=pt-BR) | 
+##### Prof. Dr. Eduardo de Miranda Batista
+
+| [Lattes](http://lattes.cnpq.br/9045444814367137) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7006940844) | [Scielo](https://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dlibrary&fmt=iso.pft&lang=i&nextAction=lnk&indexSearch=AU&exprSearch=BATISTA,+EDUARDO+DE+MIRANDA) |
+
+| [ResearchGate](https://www.researchgate.net/profile/Eduardo-Batista-5) | [Orcid](https://orcid.org/0000-0002-6317-6789) | [Google Scholar](https://scholar.google.com.br/citations?user=J4uahxcAAAAJ&hl=pt-BR) |
 
 
 <!-- * * * -->
