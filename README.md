@@ -31,7 +31,7 @@ The FStr computer application program is based on the Finite Strip Method and gi
 
 
 
-## Installing:
+## Installing PC .EXE file:
 
 To install the FStr application in Windows, proceed according to the following steps:
 
@@ -45,13 +45,35 @@ To install the FStr application in Windows, proceed according to the following s
 
 5 - Once installed, you may run the FStr program and enjoy elastic buckling analysis.
 
-Observation 1: In case of uninstalling, go to “Add or Remove Programs” or “Programs and Features” or “Apps & Features”, and search for “FStr” and “MATLAB Runtime”. You must uninstall both applications for completely remove the FStr;
+Note 1: In case of uninstalling, go to “Add or Remove Programs” or “Programs and Features” or “Apps & Features”, and search for “FStr” and “MATLAB Runtime”. You must uninstall both applications for completely remove the FStr;
 
-Observation 2: In case the program is not running properly, try to uninstall the MATLAB Runtime and install again;
+Note 2: In case the program is not running properly, try to uninstall the MATLAB Runtime and install again;
 
-Observation 3: In case the program reports some unusual bugs, please contact Joao Alfredo de Lazzari (joaoadelazzari@outlook.com.br);
+Note 3: In case the program reports some unusual bugs, please contact Joao Alfredo de Lazzari (joaoadelazzari@outlook.com.br);
 
-Observation 4: Using another type of software that requires a MATLAB Runtime, may be compromising the usage of the FStr Computer Application.
+Note 4: Using another type of software that requires a MATLAB Runtime, may be compromising the usage of the FStr Computer Application.
+
+
+## Installing MATLAB APP .mlappinstall file:
+
+To install the FStr app in MATLAB, follow these steps:
+
+1 - Download the newest .mlappinstall file in the releases (https://github.com/joaoadelazzari/FStr/releases/);
+
+2- Open MATLAB 2017b or a later version (earlier versions may also work);
+
+3- Click the "APPS" tab;
+
+4- Click the blue "Install App" button in the upper left corner of the screen;
+
+5- Select the "FStr 1.4.0p.mlappinstall" file;
+
+6- Select "Install" for a new installation, "Update" for an update, "Downgrade" for a downgrade, or "Re-install" for a re-installation;
+
+Once installed, the FStr app will be displayed alongside your other apps and default MATLAB apps. To run the program, click on the app icon.
+
+To uninstall the app, right-click on the app icon and select "Uninstall".
+
 
 
 ### Developed by:
@@ -82,8 +104,7 @@ Observation 4: Using another type of software that requires a MATLAB Runtime, ma
   > [CORE Group - Composites Research Group](https://coregroup.tecnico.ulisboa.pt/)
 
 
-For contact, please email Joao Alfredo De Lazzari
-Author's email: joaoadelazzari@outlook.com.br
+For any inquiries, please contact Joao Alfredo De Lazzari at joaoadelazzari@outlook.com.br.
 
 
 [![View FStr - Finite Strip Computer Application on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
