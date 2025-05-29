@@ -30,7 +30,6 @@ The FStr computer application program is based on the Finite Strip Method and gi
 - The FStr has an accessible and easy graphical user interface, and is conceived to attend research activities as well as engineering design of thin-walled structures with arbitrary cross-sections. 
 
 
-
 ## Installing PC .EXE file:
 
 To install the FStr application in Windows, proceed according to the following steps:
@@ -87,9 +86,18 @@ To uninstall the app, right-click on the app icon and select "Uninstall".
 
 
 #### Eduardo de Miranda Batista<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6317-6789" href="https://orcid.org/0000-0002-6317-6789" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-6317-6789</a></div>
-              
 
-   - Links: 
+
+## 🔖 Official Registration
+
+This software, titled **Finite Strip Computer Application (FStr)**, is officially registered with the Brazilian National Institute of Industrial Property (INPI). It was developed in MATLAB and created on **March 19, 2020** by João Alfredo de Lazzari and Eduardo de Miranda Batista, under the ownership of the **Federal University of Rio de Janeiro (UFRJ)**.
+
+The software is free to use, but some internal routines are proprietary and legally protected.
+
+For full registration details, please see the [SOFTWARE_REGISTRATION.md](./SOFTWARE_REGISTRATION.md) file.
+
+
+##  Links: 
 
   > [LabEST - Laboratory of Structures and Materials Professor Lobo Carneiro](http://www.labest.coc.ufrj.br/)
   
