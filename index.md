@@ -35,7 +35,7 @@ To install FStr on Windows:
 ## Software Registration
 FStr (*Finite Strip Computer Application*) is officially registered with the Brazilian National Institute of Industrial Property (INPI) under the registration number **BR512024003915-5**. The software is free for public use, though its internal routines remain proprietary and protected.
 
-More details available in [SOFTWARE_REGISTRATION.md](SOFTWARE_REGISTRATION.md).
+More details available in [SOFTWARE_REGISTRATION.md](https://github.com/joaoadelazzari/FStr/blob/master/SOFTWARE_REGISTRATION.md).
 
 ---
 
