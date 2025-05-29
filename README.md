@@ -1,7 +1,14 @@
 ![](https://github.com/joaoadelazzari/FStr/blob/master/images/logos/logo2020_1.png?raw=true)
 
-[![View FStr - Finite Strip Computer Application on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
-![CI](https://github.com/joaoadelazzari/FStr/workflows/CI/badge.svg)
+[![File Exchange](https://img.shields.io/badge/Downloads_MATLAB_File_Exchange-205-blue.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
+![License](https://img.shields.io/github/license/joaoadelazzari/FStr)
+[![Registration](https://img.shields.io/badge/Registration-BR512024003915_5-green)](https://www.gov.br/inpi/pt-br)
+![GitHub stars](https://img.shields.io/github/stars/joaoadelazzari/FStr?style=social)
+![GitHub forks](https://img.shields.io/github/forks/joaoadelazzari/FStr?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/joaoadelazzari/FStr)
+![GitHub top language](https://img.shields.io/github/languages/top/joaoadelazzari/FStr)
+![GitHub repo size](https://img.shields.io/github/repo-size/joaoadelazzari/FStr)
+[![DOI](https://img.shields.io/badge/DOI-Journal_Paper-red)](https://doi.org/10.1590/0370-44672020740065)
 
 # FStr – Finite Strip Computer Application
 ### Elastic Buckling Analysis of Thin-Walled Structures
@@ -63,28 +70,23 @@ The app will appear in your MATLAB Apps list. To uninstall, right-click the app 
 ## 👨‍💻 Developers
 
 ### Joao Alfredo De Lazzari  
-[![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-3176-3006) [ORCID Profile](https://orcid.org/0000-0002-3176-3006)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalfredo/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3176--3006-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3176-3006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaoalfredo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalfredo/)
+[![Lattes](https://img.shields.io/badge/Lattes-Curriculum-blue?style=flat)](http://lattes.cnpq.br/5703194372541843)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Joao_Alfredo_De_Lazzari)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com.br/citations?user=BlluIXQAAAAJ&hl)
 
 ### Eduardo de Miranda Batista  
-[![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6317-6789) [ORCID Profile](https://orcid.org/0000-0002-6317-6789)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6317--6789-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6317-6789)
+[![Lattes](https://img.shields.io/badge/Lattes-Curriculum-blue?style=flat)](http://lattes.cnpq.br/9045444814367137)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Eduardo-Batista-5)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=J4uahxcAAAAJ&hl)
 
 ---
 
 ## 🔖 Official Registration
 
 This software, titled **Finite Strip Computer Application (FStr)**, is officially registered with the **Brazilian National Institute of Industrial Property (INPI)**.
-
-- **Title:** Finite Strip Computer Application (FStr)  
-- **Creation Date:** March 19, 2020  
-- **Owner:** Federal University of Rio de Janeiro (UFRJ)  
-- **Authors:** João Alfredo de Lazzari; Eduardo de Miranda Batista  
-- **Programming Language:** MATLAB  
-- **Application Area:** CC-05  
-- **Program Type:** SM-04  
-- **Hash Algorithm:** SHA-512  
-- **Issue Date:** October 29, 2024  
-
 The software is free to use, but internal routines are proprietary and legally protected.
 
 ➡️ For full details, see the [SOFTWARE_REGISTRATION.md](./SOFTWARE_REGISTRATION.md) file.
