@@ -3,96 +3,76 @@
 # [FStr](https://sites.google.com/coc.ufrj.br/fstr)
 ### Elastic Buckling Analysis of Thin-Walled Structures
 
-The FStr computer application program is based on the Finite Strip Method and gives to the user an easy and intuitive elastic buckling analysis, allowing access to the buckling mode shape of thin-walled structural member. Besides the generation of the 2D and 3D buckling modes illustration, the user is able to obtain the critical buckling load and its related member length.
+**FStr** is a computational tool based on the Finite Strip Method, designed for the elastic buckling analysis of thin-walled structures. With an intuitive interface, it enables users to visualize buckling mode shapes in both 2D and 3D formats and to compute critical buckling loads for various member lengths.
 
 [Learn more](https://sites.google.com/coc.ufrj.br/fstr)
 
 ## What is [FStr](https://sites.google.com/coc.ufrj.br/fstr)?
-- FStr Computer Application is a software developed on the basis of the Finite Strip Method formulation;
+- A software developed using the Finite Strip Method (FSM), applying trigonometric series in the longitudinal direction to satisfy diverse boundary conditions;
+- Allows analysis across a range of lengths through signature curves, helping users identify critical buckling modes for each case;
+- Offers 3D visualizations with detailed color plots, enhancing the interpretation of structural behavior.
 
-- The formulation uses trigonometric functions in longitudinal direction in series, with the purpose of interpolate the solution inside the strip, and form a shape suitable to any type of end boundary condition;
+## Easy-to-Use Interface
+- The Graphical User Interface (GUI) is developed in MATLAB App Designer (MathWorks, 2000);
+- Designed for clarity and accessibility, enabling seamless data input and results interpretation;
+- Suitable for both academic research and engineering applications involving thin-walled profiles of arbitrary cross-sections.
 
-- Signature curves are one type of analyze the results, through a set of longitudinal lengths. Then, the user can analyze the critical modes in any critical length;
+## Installation Guide
+To install FStr on Windows:
 
-- 3D buckling modes, with colorful plots, helps the user to identify the critical buckling mode easily.
+1. Download the latest `.exe` installer from the [RELEASES](https://github.com/joaoadelazzari/FStr/releases/);
+2. Execute the downloaded file;
+3. Follow the setup instructions to install MATLAB Runtime;
+4. A desktop shortcut will be created;
+5. Launch FStr and begin your analysis.
 
-## Easy and intuitive interface
-- The Graphical User Interface (GUI) is implemented in the MATLAB App Designer (MATHWORKS, 2000). The purpose of the GUI is to make it easier to the user to set up the data input and to analyze the data output.
+**Important Notes:**
+- To uninstall, navigate to “Add or Remove Programs”, find "FStr" and "MATLAB Runtime", and remove both;
+- If the program doesn’t start correctly, try reinstalling MATLAB Runtime;
+- For support, contact Joao Alfredo de Lazzari at joaoadelazzari@outlook.com.br;
+- Be aware that other software using MATLAB Runtime may conflict with FStr.
 
-- The FStr has an accessible and easy graphical user interface, and is conceived to attend research activities as well as engineering design of thin-walled structures with arbitrary cross-sections. 
+## Software Registration
+FStr (*Finite Strip Computer Application*) is officially registered with the Brazilian National Institute of Industrial Property (INPI) under the registration number **BR512024003915-5**. The software is free for public use, though its internal routines remain proprietary and protected.
 
+More details available in [SOFTWARE_REGISTRATION.md](SOFTWARE_REGISTRATION.md).
 
+---
 
-## Installing:
-
-To install the FStr application in Windows, proceed according to the following steps:
-
-1 - Download the newest .EXE file in the [RELEASES](https://github.com/joaoadelazzari/FStr/releases/);
-
-2 - Execute the downloaded file;
-
-3 - Follow the steps and wait for installing the MATLAB Runtime;
-
-4 – A shortcut will be placed in desktop;
-
-5 - Once installed, you may run the FStr program and enjoy elastic buckling analysis.
-
-Observation 1: In case of uninstalling, go to “Add or Remove Programs” or “Programs and Features” or “Apps & Features”, and search for “FStr” and “MATLAB Runtime”. You must uninstall both applications for completely remove the FStr;
-
-Observation 2: In case the program is not running properly, try to uninstall the MATLAB Runtime and install again;
-
-Observation 3: In case the program reports some unusual bugs, please contact Joao Alfredo de Lazzari (joaoadelazzari@outlook.com.br);
-
-Observation 4: Using another type of software that requires a MATLAB Runtime, may be compromising the usage of the FStr Computer Application.
-
-
-For contact, please email Joao Alfredo De Lazzari
-joaoadelazzari@outlook.com.br
-
-
-
-* * *
-
-
-### Developed by:
+### Developed by
 
 #### MSc. Joao Alfredo de Lazzari
 
 | [Lattes](http://lattes.cnpq.br/5703194372541843) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57220023113) | [Scielo](https://search.scielo.org/?lang=en&q=au:LAZZARI,+JOAO+ALFREDO) | [ResearchGate](https://www.researchgate.net/profile/Joao_Alfredo_De_Lazzari) | [Orcid](https://orcid.org/0000-0002-3176-3006) |
-
-| [Google Scholar](https://scholar.google.com.br/citations?user=BlluIXQAAAAJ&hl=pt-BR) | [You Tube](https://www.youtube.com/channel/UCm0V8LURETmUf7Bg3aVuPaQ) | [Twitter](https://twitter.com/joaoadelazzari) | [My LinkTree](https://linktr.ee/FStr) | [Linkedin](https://www.linkedin.com/in/joaoalfredo/) |
-
+| [Google Scholar](https://scholar.google.com.br/citations?user=BlluIXQAAAAJ&hl=pt-BR) | [YouTube](https://www.youtube.com/channel/UCm0V8LURETmUf7Bg3aVuPaQ) | [Twitter](https://twitter.com/joaoadelazzari) | [Linktree](https://linktr.ee/FStr) | [LinkedIn](https://www.linkedin.com/in/joaoalfredo/) |
 
 #### Prof. Dr. Eduardo de Miranda Batista
 
 | [Lattes](http://lattes.cnpq.br/9045444814367137) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7006940844) | [Scielo](https://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article^dlibrary&fmt=iso.pft&lang=i&nextAction=lnk&indexSearch=AU&exprSearch=BATISTA,+EDUARDO+DE+MIRANDA) |
-
 | [ResearchGate](https://www.researchgate.net/profile/Eduardo-Batista-5) | [Orcid](https://orcid.org/0000-0002-6317-6789) | [Google Scholar](https://scholar.google.com.br/citations?user=J4uahxcAAAAJ&hl=pt-BR) |
 
+---
 
-<!-- * * * -->
-
-##### Links:
-
-[FStr Computer Application - Google Site](https://sites.google.com/coc.ufrj.br/fstr)
-
-[LabEST - Laboratory of Structures and Materials Professor Lobo Carneiro](http://www.labest.coc.ufrj.br/)
-
-[COPPE - Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering](https://coppe.ufrj.br/en/)
-
-[PEC - Civil Engineering Program](http://www.coc.ufrj.br/en/)
-
-[IST - Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/)
-
-[CERIS - Civil Engineering Research and Innovation for Sustainability](https://ceris.pt/)
-
-[CORE Group - Composites Research Group](https://coregroup.tecnico.ulisboa.pt/)
+### Institutional Links
+- [FStr Official Website](https://sites.google.com/coc.ufrj.br/fstr)
+- [LabEST - Laboratory of Structures and Materials, Prof. Lobo Carneiro](http://www.labest.coc.ufrj.br/)
+- [COPPE - Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering](https://coppe.ufrj.br/en/)
+- [PEC - Civil Engineering Program](http://www.coc.ufrj.br/en/)
+- [IST - Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/)
+- [CERIS - Civil Engineering Research and Innovation for Sustainability](https://ceris.pt/)
+- [CORE Group - Composites Research Group](https://coregroup.tecnico.ulisboa.pt/)
 
 <meta name="google-site-verification" content="1-sKvhQ7zP-8J7vif_OdLUYZ0n5FjT5YVvuiSuGT4yM" />
 
-[![View FStr - Finite Strip Computer Application File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
-
-![CI](https://github.com/joaoadelazzari/FStr/workflows/CI/badge.svg)
+[![File Exchange](https://img.shields.io/badge/Downloads_MATLAB_File_Exchange-205-blue.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74306)
+![License](https://img.shields.io/github/license/joaoadelazzari/FStr)
+[![Registration](https://img.shields.io/badge/Registration-BR512024003915_5-green)](https://www.gov.br/inpi/pt-br)
+![GitHub stars](https://img.shields.io/github/stars/joaoadelazzari/FStr?style=social)
+![GitHub forks](https://img.shields.io/github/forks/joaoadelazzari/FStr?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/joaoadelazzari/FStr)
+![GitHub top language](https://img.shields.io/github/languages/top/joaoadelazzari/FStr)
+![GitHub repo size](https://img.shields.io/github/repo-size/joaoadelazzari/FStr)
+[![DOI](https://img.shields.io/badge/DOI-Journal_Paper-red)](https://doi.org/10.1590/0370-44672020740065)
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
 
